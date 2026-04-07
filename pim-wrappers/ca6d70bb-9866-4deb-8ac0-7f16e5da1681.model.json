@@ -1,6 +1,6 @@
 {
   "type": "https://dataspecer.com/core/model-descriptor/pim-store-wrapper",
-  "id": "http://dataspecer.com/packages/local-root/1e10d14f-68cb-4507-bb2a-8fd2e5b19b4d/4af5f018-16fb-4ae6-a998-c533ab56c846",
+  "id": "8315ee02-d984-4ad4-a4f2-ab0821f12757",
   "alias": "dublin_core_terms",
   "pimStore": {
     "resources": {
